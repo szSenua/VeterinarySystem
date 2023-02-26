@@ -9,7 +9,7 @@
 
     <!-- Vista de Inicio -->
     <StackPanel>
-        <TextBlock Text="Discover"
+        <TextBlock Text="Noticias"
                    Foreground="White"
                    FontSize="28"
                    HorizontalAlignment="Left"
@@ -47,12 +47,11 @@
                                    Margin="20,10,10,0"/>
                     </StackPanel>
 
-                    <Image Width="250"
-                           Height="250"
+                    <Image Width="231"
+                           Height="207"
                            Source="/Images/acana.png"
                            HorizontalAlignment="Right"
                            VerticalAlignment="Bottom"
-                           Margin="0,0,0,-43"
                            RenderTransformOrigin="0.5,0.5">
                         <Image.RenderTransform>
                             <TransformGroup>
@@ -66,14 +65,14 @@
                 </Grid>
 
             </Border>
-            
+
             <!-- Segundo panel -->
 
             <Border Width="200"
                     Height="200"
                     CornerRadius="10"
                     Margin="45,0,0,0">
-                
+
                 <Border.Background>
                     <LinearGradientBrush StartPoint="0,0"
                                          EndPoint="1,2">
@@ -87,18 +86,18 @@
 
 
         </StackPanel>
-        
+
         <StackPanel>
 
-        <StackPanel.Resources>
-            <Style TargetType="{x:Type Border}">
+            <StackPanel.Resources>
+                <Style TargetType="{x:Type Border}">
 
-                <Setter Property="Margin" Value="15,0,0,0"/>
-            </Style>
-            
-        </StackPanel.Resources>
+                    <Setter Property="Margin" Value="15,0,0,0"/>
+                </Style>
 
-        
+            </StackPanel.Resources>
+
+
             <TextBlock Text="Más buscado"
                    Foreground="White"
                    FontSize="20"
@@ -128,7 +127,7 @@
                         CornerRadius="10"/>
 
             </StackPanel>
-            
+
         </StackPanel>
 
     </StackPanel>

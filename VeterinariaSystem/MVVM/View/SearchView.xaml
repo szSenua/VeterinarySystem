@@ -5,9 +5,131 @@
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
              xmlns:local="clr-namespace:VeterinariaSystem.MVVM.View"
              mc:Ignorable="d" 
-             d:DesignHeight="450" d:DesignWidth="800"
-             Background="#1b1b1b">
-    <Grid>
+             d:DesignHeight="450" d:DesignWidth="800">
+    
+    <!--Vista de Buscar-->
+    
+    <StackPanel>
+        <TextBlock Text="Consulta"
+                   Foreground="White"
+                   FontSize="28"
+                   HorizontalAlignment="Left"
+                   Margin="0,0,0,20"/>
+
+
+
+        <StackPanel Orientation="Horizontal"
+                HorizontalAlignment="Center">
+        
             
-    </Grid>
+
+            <Grid Width="550"
+              Height="370">
+                
+
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <Border Grid.Column="0">
+                    <!-- Elementos de la primera sección -->
+                    <StackPanel>
+                    
+                        <TextBox Width="200"
+                         Height="40"
+                         Margin="10"
+                         FontSize="16"
+                         Text="Inserte DNI para buscar"
+                         x:Name="dnitext"
+                         Style="{StaticResource ModernTextbox}"/>
+
+                        <TextBox Width="200"
+                         Height="40"
+                         Margin="10"
+                                 FontSize="16"
+                         x:Name="nombretext"
+                         Style="{StaticResource ModernTextbox}"/>
+
+                        <TextBox Width="200"
+                         Height="40"
+                         Margin="10"
+                                 FontSize="16"
+                         x:Name="apellidotext"
+                         Style="{StaticResource ModernTextbox}"/>
+
+                        <TextBox Width="200"
+                         Height="40"
+                         Margin="10"
+                                 FontSize="16"
+                         x:Name="direcciontext"
+                         Style="{StaticResource ModernTextbox}"/>
+
+                        <TextBox Width="200"
+                         Height="40"
+                         Margin="10"
+                                 FontSize="16"
+                         x:Name="telefonotext"
+                         Style="{StaticResource ModernTextbox}"/>
+
+                        <TextBox Width="200"
+                         Height="40"
+                         Margin="10"
+                                 FontSize="16"
+                         x:Name="emailtext"
+                         Style="{StaticResource ModernTextbox}"/>
+
+                      
+
+                    </StackPanel>
+
+
+                </Border>
+                <Border Grid.Column="1">
+                    <StackPanel>
+                        <!-- Elementos de la segunda sección -->
+                        <Button
+                            Height="40"
+                            Width="200"
+                            Content="Buscar"
+                            Margin="10"
+                            FontSize="20"
+                            Click="consultar_Click"/>
+
+
+                        <TextBlock Text="Mascota"
+                         Foreground="White"
+                         FontSize="28"
+                         HorizontalAlignment="Center"/>
+
+                        <TextBox Width="200"
+                         Height="40"
+                         Margin="10"
+                                 FontSize="16"
+                         x:Name="nombremascotatext"
+                         Style="{StaticResource ModernTextbox}"/>
+
+                        <TextBox Width="200"
+                         Height="40"
+                         Margin="10"
+                                 FontSize="16"
+                         x:Name="razamascotatext"
+                         Style="{StaticResource ModernTextbox}"/>
+
+                        <TextBox Width="200"
+                         Height="40"
+                         Margin="10"
+                                 FontSize="16"
+                         x:Name="edadmascotatext"
+                         Style="{StaticResource ModernTextbox}"/>
+
+                        <!--Pensar qué pongo aquí -->
+
+                    </StackPanel>
+                </Border>
+            </Grid>
+
+        </StackPanel>
+
+    </StackPanel>
+
 </UserControl>

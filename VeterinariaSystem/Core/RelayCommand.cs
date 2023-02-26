@@ -11,7 +11,7 @@ namespace VeterinariaSystem.Core
         public event EventHandler CanExecuteChanged
         {
             add { CommandManager.RequerySuggested += value; }
-            remove { CommandManager.RequerySuggested += value; }
+            remove { CommandManager.RequerySuggested -= value; }
 
         }
 
