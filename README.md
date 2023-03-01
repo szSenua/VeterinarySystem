@@ -2,11 +2,11 @@
 
 Aplicación que será capaz de:
 
--Consultar una base de datos de clientes y recuperarlos.
+- Consultar una base de datos de clientes y recuperarlos.
 
--Registrar un cliente nuevo
+- Registrar un cliente nuevo
 
--Abrir un expediente de una mascota, sobreescribirlo y guardarlo.
+- Abrir un expediente de una mascota, sobreescribirlo y guardarlo.
 
 # Techs usadas
 
