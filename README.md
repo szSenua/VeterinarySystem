@@ -28,5 +28,7 @@ La vista con menú lateral me permite agregar funcionalidad en el caso de creerl
 - Mostrar un fichero con el expediente de la mascota
 - Sobreescritura de dicho fichero
 
-Más por llegar
+Más por llegar... Mientras tanto no olvides visitar
+
+[Asylum](https://asylum1.odoo.com/)
 
