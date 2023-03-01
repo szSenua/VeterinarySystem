@@ -28,6 +28,10 @@ La vista con menú lateral me permite agregar funcionalidad en el caso de creerl
 - Mostrar un fichero con el expediente de la mascota
 - Sobreescritura de dicho fichero
 
+# Posibles modificaciones
+- Vista con DataGrid para controlar el que un cliente tenga varias mascotas
+- Suprimir en el apartado "Consulta" la información de la mascota en consencuencia.
+
 Más por llegar... Mientras tanto no olvides visitar
 
 [Asylum](https://asylum1.odoo.com/)
