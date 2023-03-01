@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SX/m4QnBlKaqLenBI4TVaUaSKx5ivBpB2jlaaKStj5uyEFXVM/SKgGKWldXzfZTeurzAwgwDFCErSE+pf8KIvw==",
+  "dgSpecHash": "6h/9vUJNSy1ABTuJ+U7Kp0qlTk9NaTbxq+I85Z2VZXgezpwF9z1BsVRgyt0OA+jM/NVGYheGhVgD1NPsL1UO2Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Cristina\\source\\repos\\VeterinariaSystem\\VeterinariaSystem\\VeterinariaSystem.csproj",
+  "projectFilePath": "C:\\Users\\Cristina\\source\\repos\\carpetanueva\\VeterinariaSystem\\VeterinariaSystem.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Cristina\\.nuget\\packages\\google.protobuf\\3.21.9\\google.protobuf.3.21.9.nupkg.sha512",
     "C:\\Users\\Cristina\\.nuget\\packages\\k4os.compression.lz4\\1.2.6\\k4os.compression.lz4.1.2.6.nupkg.sha512",

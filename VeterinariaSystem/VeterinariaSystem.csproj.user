@@ -10,6 +10,9 @@
     <Compile Update="MVVM\View\HomeView.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="MVVM\View\MascotaView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="MVVM\View\SearchView.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -21,7 +24,13 @@
     <Page Update="MVVM\View\HomeView.xaml">
       <SubType>Designer</SubType>
     </Page>
+    <Page Update="MVVM\View\MascotaView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="MVVM\View\SearchView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Theme\ButtonTemplate.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="Theme\MenuButtonTheme.xaml">

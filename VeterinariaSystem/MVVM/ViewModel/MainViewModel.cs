@@ -12,11 +12,14 @@ namespace VeterinariaSystem.MVVM.ViewModel
 
         public RelayCommand HomeViewCommand { get; set; }
         public RelayCommand SearchViewCommand { get; set; }
+        public RelayCommand MascotaViewCommand { get; set; }
         
         //Enlazamos las vistas aqui
         public HomeViewModel HomeVM { get; set; }
 
         public SearchViewModel SearchVM { get; set; }
+
+        public MascotaViewModel MascotaVM { get; set; }
 
         private object _currentView;
 
@@ -32,6 +35,7 @@ namespace VeterinariaSystem.MVVM.ViewModel
         {
             HomeVM = new HomeViewModel();
             SearchVM = new SearchViewModel();
+            MascotaVM = new MascotaViewModel();
             CurrentView = HomeVM;
 
             HomeViewCommand = new RelayCommand(o =>
@@ -43,6 +47,11 @@ namespace VeterinariaSystem.MVVM.ViewModel
             SearchViewCommand = new RelayCommand(o =>
             {
                 CurrentView = SearchVM;
+            });
+
+            MascotaViewCommand = new RelayCommand(o =>
+            {
+                CurrentView = MascotaVM;
             });
         }
             

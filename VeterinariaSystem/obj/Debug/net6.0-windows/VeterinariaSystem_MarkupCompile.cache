@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\Cristina\source\repos\VeterinariaSystem\VeterinariaSystem\obj\Debug\net6.0-windows\
+C:\Users\Cristina\source\repos\carpetanueva\VeterinariaSystem\obj\Debug\net6.0-windows\
 VeterinariaSystem
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
-C:\Users\Cristina\source\repos\VeterinariaSystem\VeterinariaSystem\App.xaml
-5-775433711
+C:\Users\Cristina\source\repos\carpetanueva\VeterinariaSystem\App.xaml
+7-1255102342
 
-101846218349
+12-1602782805
 201-240508928
-MainWindow.xaml;MVVM\View\HomeView.xaml;MVVM\View\SearchView.xaml;Theme\MenuButtonTheme.xaml;Theme\TextBoxTheme.xaml;
+MainWindow.xaml;MVVM\View\HomeView.xaml;MVVM\View\MascotaView.xaml;MVVM\View\SearchView.xaml;Theme\ButtonTemplate.xaml;Theme\MenuButtonTheme.xaml;Theme\TextBoxTheme.xaml;
 
 False
 

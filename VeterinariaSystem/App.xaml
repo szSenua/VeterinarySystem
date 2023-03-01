@@ -12,6 +12,7 @@
             <ResourceDictionary.MergedDictionaries>
                 <ResourceDictionary Source="Theme/MenuButtonTheme.xaml"/>
                 <ResourceDictionary Source="Theme/TextBoxTheme.xaml"/>
+                <ResourceDictionary Source="Theme/ButtonTemplate.xaml"/>
             </ResourceDictionary.MergedDictionaries>
             
             <!--Ctrl + shift + b mapea todo bien-->
@@ -23,6 +24,11 @@
 
             <DataTemplate DataType="{x:Type viewModel:SearchViewModel}">
                 <view:SearchView/>
+
+            </DataTemplate>
+
+            <DataTemplate DataType="{x:Type viewModel:MascotaViewModel}">
+                <view:MascotaView/>
 
             </DataTemplate>
 

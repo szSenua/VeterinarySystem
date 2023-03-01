@@ -93,6 +93,7 @@
                             Content="Buscar"
                             Margin="10"
                             FontSize="20"
+                            Style="{StaticResource RoundedButton}"
                             Click="consultar_Click"/>
 
 

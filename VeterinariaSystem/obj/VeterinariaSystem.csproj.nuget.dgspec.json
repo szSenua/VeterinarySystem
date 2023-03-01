@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Cristina\\source\\repos\\VeterinariaSystem\\VeterinariaSystem\\VeterinariaSystem.csproj": {}
+    "C:\\Users\\Cristina\\source\\repos\\carpetanueva\\VeterinariaSystem\\VeterinariaSystem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Cristina\\source\\repos\\VeterinariaSystem\\VeterinariaSystem\\VeterinariaSystem.csproj": {
+    "C:\\Users\\Cristina\\source\\repos\\carpetanueva\\VeterinariaSystem\\VeterinariaSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Cristina\\source\\repos\\VeterinariaSystem\\VeterinariaSystem\\VeterinariaSystem.csproj",
+        "projectUniqueName": "C:\\Users\\Cristina\\source\\repos\\carpetanueva\\VeterinariaSystem\\VeterinariaSystem.csproj",
         "projectName": "VeterinariaSystem",
-        "projectPath": "C:\\Users\\Cristina\\source\\repos\\VeterinariaSystem\\VeterinariaSystem\\VeterinariaSystem.csproj",
+        "projectPath": "C:\\Users\\Cristina\\source\\repos\\carpetanueva\\VeterinariaSystem\\VeterinariaSystem.csproj",
         "packagesPath": "C:\\Users\\Cristina\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Cristina\\source\\repos\\VeterinariaSystem\\VeterinariaSystem\\obj\\",
+        "outputPath": "C:\\Users\\Cristina\\source\\repos\\carpetanueva\\VeterinariaSystem\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
