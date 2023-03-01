@@ -16,3 +16,9 @@ Aplicación que será capaz de:
 
 La vista con menú lateral me permite agregar funcionalidad en el caso de creerlo interesante y/o necesario. Mi objetivo es que mi aplicación cubra todas las necesidades posibles de una clínica veterinaria de forma dinámica, un manejo simple y un aspecto visual atractivo a la par que formal.
 
+# Funcionalidad añadida por el momento
+
+- Menú lateral ampliable
+- Función de búsqueda de un cliente por DNI
+- Mostrar tanto los datos del cliente como de la mascota asociada al mismo en el caso de introducir un DNI que coincida.
+
