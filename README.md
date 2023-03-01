@@ -14,7 +14,7 @@ Aplicación que será capaz de:
 
 # Posibles mejoras
 
-La vista con menú lateral me permite agregar funcionalidad en el caso de creerlo interesante y/o necesario. Mi objetivo es que mi aplicación cubra todas las necesidades posibles de una clínica veterinaria de forma dinámica, un manejo simple y un aspecto visual atractivo a la par que formal.
+La vista con menú lateral me permite agregar funcionalidad en el caso de creerlo interesante y/o necesario. Mi objetivo es que mi aplicación cubra todas las necesidades posibles de una clínica veterinaria de forma dinámica, un manejo simple y un aspecto visual atractivo sin perder cierta formalidad.
 
 # Funcionalidad añadida por el momento
 
