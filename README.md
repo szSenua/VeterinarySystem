@@ -22,3 +22,11 @@ La vista con menú lateral me permite agregar funcionalidad en el caso de creerl
 - Función de búsqueda de un cliente por DNI
 - Mostrar tanto los datos del cliente como de la mascota asociada al mismo en el caso de introducir un DNI que coincida.
 
+# Funcionalidad esperada
+
+- Registro de un nuevo cliente
+- Mostrar un fichero con el expediente de la mascota
+- Sobreescritura de dicho fichero
+
+Más por llegar
+
