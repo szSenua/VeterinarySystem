@@ -125,7 +125,7 @@ namespace VeterinariaSystem.MVVM.View {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/VeterinariaSystem;component/mvvm/view/searchview.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/VeterinariaSystem;V1.0.0.0;component/mvvm/view/searchview.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\..\MVVM\View\SearchView.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
