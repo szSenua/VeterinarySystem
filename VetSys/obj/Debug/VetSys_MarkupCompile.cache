@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\Cristina\source\repos\VetSys\VetSys\obj\Debug\
+C:\Users\Cristina\source\repos\VetSys2019\VetSys\obj\Debug\
 VetSys
 none
 false
 DEBUG;TRACE
-C:\Users\Cristina\source\repos\VetSys\VetSys\App.xaml
-7-331281004
-11767643692
-15319360098
-201264045119
-MainWindow.xaml;MVVM\View\HomeView.xaml;MVVM\View\MascotaView.xaml;MVVM\View\SearchView.xaml;Theme\ButtonTemplate.xaml;Theme\MenuButtonTheme.xaml;Theme\TextBoxTheme.xaml;
+C:\Users\Cristina\source\repos\VetSys2019\VetSys\App.xaml
+8-1076943288
+3-1339961815
+18-752485791
+1331286686528
+MainWindow.xaml;MVVM\View\HomeView.xaml;MVVM\View\MascotaView.xaml;MVVM\View\RegisterView.xaml;MVVM\View\SearchView.xaml;Theme\ButtonTemplate.xaml;Theme\MenuButtonTheme.xaml;Theme\TextBoxTheme.xaml;
 
 False
 

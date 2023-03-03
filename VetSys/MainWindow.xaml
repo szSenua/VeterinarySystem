@@ -11,7 +11,8 @@
         WindowStyle="None"
         ResizeMode="NoResize"
         Background="Transparent"
-        AllowsTransparency="True">
+        AllowsTransparency="True"
+        WindowStartupLocation="CenterScreen">
 
     <Window.DataContext>
         <viewModel:MainViewModel/>
@@ -42,7 +43,18 @@
                    FontSize="22"
                    Margin="20,0,0,0"/>
 
-            <!-- Menu -->
+            <Button Grid.Row="0"
+                Grid.Column="1"
+                HorizontalAlignment="Right"
+                Margin="0,10,10,0"
+                VerticalAlignment="Top"
+                Width="30"
+                Height="30">
+                <Image Source="/Images/top.png"/>
+               </Button>
+
+
+                <!-- Menu -->
 
             <StackPanel Grid.Row="1">
 
@@ -67,6 +79,13 @@
                              FontSize="14"
                              Style="{StaticResource MenuButtonTheme}"
                              Command="{Binding MascotaViewCommand}"/>
+
+                <RadioButton Content="Registro"
+                             Height="50"
+                             Foreground="White"
+                             FontSize="14"
+                             Style="{StaticResource MenuButtonTheme}"
+                             Command="{Binding RegisterViewCommand}"/>
 
             </StackPanel>
 

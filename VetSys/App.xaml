@@ -30,6 +30,11 @@
                 <view:MascotaView/>
             </DataTemplate>
 
+            <DataTemplate DataType="{x:Type viewModel:RegisterViewModel}">
+                <view:RegisterView/>
+
+            </DataTemplate>
+
           
         </ResourceDictionary>
 
