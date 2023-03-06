@@ -29,8 +29,13 @@ La vista con menú lateral me permite agregar funcionalidad en el caso de creerl
 - Sobreescritura de dicho fichero
 
 # Posibles modificaciones
+
 - Vista con DataGrid para controlar el que un cliente tenga varias mascotas
 - Suprimir en el apartado "Consulta" la información de la mascota en consecuencia.
+
+# Novedades
+
+- Proyecto corrupto
 
 Más por llegar... Mientras tanto no olvides visitar
 
