@@ -36,7 +36,3 @@ La vista con menú lateral me permite agregar funcionalidad en el caso de creerl
 # Novedades
 
 - Proyecto corrupto
-
-Más por llegar... Mientras tanto no olvides visitar
-
-[Asylum](https://asylum1.odoo.com/)
